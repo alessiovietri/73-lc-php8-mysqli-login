@@ -1,0 +1,12 @@
+header {
+    height: 100px;
+}
+
+section.login {
+    height: calc(100vh - 50px);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #001632;
+}
